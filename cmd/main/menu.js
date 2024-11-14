@@ -73,14 +73,14 @@ export default (handler) => {
             const counts = await hitAll.text()
             sock.sendAdL(m.from, `Hi, *@${m.sender.split("@")[0]}* 👋
             
-Selamat datang di MyWA BOT
+Selamat datang di Zhucenn BOT
 bot ini masih dalam tahap beta
 
 *• Hit Pengguna Script*: ${counts}
 
 ${menu.trim()}
 
-> 2024 © Amirul Dev`, m)
+> 2024 © Loraa Dev`, m)
         }
     })
 }
