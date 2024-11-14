@@ -4,7 +4,8 @@ export default (handler) => {
         tags: 'main',
         desc: 'Source code',
         run: async (m) => {
-            m.reply(`Script ini menggunakan https://github.com/amiruldev20/mywabot-baileys`)
+            m.reply(`Chat Owner Untuk Mendapatkan Script
+            Owner : wa.me/6285215603320?text=Bang-mibta+script-botnya`)
         }
     })
 }
