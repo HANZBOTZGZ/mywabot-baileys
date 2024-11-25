@@ -88,11 +88,11 @@ const schema = async (m, sock, db) => {
         if (!("resAi" in setting)) setting.resAi = []
         if (!("number" in setting)) setting.number = ""
         if (!("owner" in setting)) setting.owner = db.setting.owner
-        if (!("ch_id" in setting)) setting.ch_id = "120363181344949815@newsletter"
-        if (!("ch_name" in setting)) setting.ch_name = "🔥 LightWeight WhatsApp Bot"
-        if (!("logo" in setting)) setting.logo = "https://i.ibb.co/C9w0YjT/Ephoto360-com-166a8b5e1ccfdc.jpg"
-        if (!("dev" in setting)) setting.dev = "Made by Amirul Dev"
-        if (!("packname" in setting)) setting.packname = "IG @amirul.dev"
+        if (!("ch_id" in setting)) setting.ch_id = "120363287869351051@newsletter"
+        if (!("ch_name" in setting)) setting.ch_name = "🔥 Zhucenn WhatsApp Bot"
+        if (!("logo" in setting)) setting.logo = "https://files.catbox.moe/wxo7i3.jpg"
+        if (!("dev" in setting)) setting.dev = "Made by Loraa Dev"
+        if (!("packname" in setting)) setting.packname = "IG @ncenn.hjrh"
         if (!("ignoreJid" in setting)) setting.ignoreJid = []
         if (!("lang" in setting)) setting.lang = "id"
         if (!("api" in setting)) setting.api = {}
@@ -113,11 +113,11 @@ const schema = async (m, sock, db) => {
             resAi: [],
             number: "",
             owner: db.setting.owner,
-            ch_id: "120363181344949815@newsletter",
-            ch_name: "🔥 LightWeight WhatsApp Bot",
-            logo: "https://i.ibb.co/C9w0YjT/Ephoto360-com-166a8b5e1ccfdc.jpg",
-            dev: "Made by Amirul Dev",
-            packname: "IG @amirul.dev",
+            ch_id: "120363287869351051@newsletter",
+            ch_name: "🔥 Zhucenn WhatsApp Bot",
+            logo: "https://files.catbox.moe/wxo7i3.jpg",
+            dev: "Made by Loraa Dev",
+            packname: "IG @ncenn.hjrh",
             ignoreJid: [],
             lang: "id",
             api: {},
